@@ -1,2 +1,2 @@
 
-alert("Este es el primer archivo de javascript");
+alert("Este es edicion primer archivo de javascript");
